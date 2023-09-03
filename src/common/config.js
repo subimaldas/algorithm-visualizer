@@ -1,11 +1,11 @@
 import { BubbleSort } from "../sortFunctions/BubbleSort";
-//import { CocktailSort } from "../sortFunctions/CocktailSort";
 import { HeapSort } from "../sortFunctions/HeapSort.js";
 import { InsertionSort } from "../sortFunctions/InsertionSort";
 import { MergeSort } from "../sortFunctions/MergeSort";
 import { QuickSort } from "../sortFunctions/QuickSort";
 import { SelectionSort } from "../sortFunctions/SelectionSort";
 //import { ShellSort } from "../sortFunctions/ShellSort";
+//import { CocktailSort } from "../sortFunctions/CocktailSort";
 import { getScreenWidth } from "./helper";
 
 // colors setting
