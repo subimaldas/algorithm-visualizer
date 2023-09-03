@@ -7,5 +7,5 @@ export default defineConfig({
   build: {
     target: "es2018",
   },
-  base: "/algorithm-visualizer/dist/",
+  base: "/algorithm-visualizer/",
 });
